@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671555458 source:e:\study\code\code\c\lab 13\bai4_lab13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

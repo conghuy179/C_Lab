@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666585840 source:c:\users\admin\documents\code\c\bai8_lab4\main.c
+	<stdio.h>
+	<stdlib.h>
+
